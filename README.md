@@ -1,2 +1,1 @@
-# chatgpt-multi-agent
-ChatGPT Multi-Agent
+# ChatGPT Multi-Agent
